@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_RAW_IMAGE_URL_HERE" alt="Profile Banner"/>
+  <img src="/mnt/data/A_GitHub_profile_README_showcases_Sai_Kiran's_prof.png" alt="Profile Banner"/>
 </p>
 
 # Hi, I'm Sai Kiran 👋
