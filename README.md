@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/2E86C1/FFFFFF?text=Sai+Kiran+|+Analyst+|+Immigration+Workflow+Support" alt="Profile Banner"/>
+  <img src="YOUR_RAW_IMAGE_URL_HERE" alt="Profile Banner"/>
 </p>
 
 # Hi, I'm Sai Kiran 👋
